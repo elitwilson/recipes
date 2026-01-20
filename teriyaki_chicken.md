@@ -1,7 +1,13 @@
+---
+tags: [quick, weeknight]
+protein: chicken
+cuisine: japanese
+---
+
 # Teriyaki Chicken
 
-**Version:** 1.1.0  
-**Last Updated:** 2025-01-19  
+**Version:** 1.1.0
+**Last Updated:** 2025-01-19
 **Status:** 🟡 Testing
 
 ## Quick Stats

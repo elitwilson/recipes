@@ -1,7 +1,13 @@
+---
+tags: []
+protein:
+cuisine:
+---
+
 # [Recipe Name]
 
-**Version:** 0.0.0  
-**Last Updated:** YYYY-MM-DD  
+**Version:** 0.0.0
+**Last Updated:** YYYY-MM-DD
 **Status:** 🟢 Stable | 🟡 Testing | 🔴 Needs Work
 
 ---
